@@ -1,7 +1,8 @@
 ### Hello, i am João Rosa Conceição👋🏻👋🏻
 
 ![João Rosa GitHub stats](https://github-readme-stats.vercel.app/api?username=jrosac&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrosac&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrosac&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies most used by me
 [![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
